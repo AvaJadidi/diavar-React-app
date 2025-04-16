@@ -1,0 +1,23 @@
+.category{
+    width: 200px;
+    margin: 20px 10px;
+
+}
+.category h4{
+    padding-bottom: 20px;
+    font-size: 1.2rem;
+
+}
+.category ul{
+    color: gray;
+    list-style-type: none;
+}
+.category ul li{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+.category ul li img{
+    padding-left: 10px;
+}

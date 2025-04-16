@@ -1,0 +1,79 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(234,234,234);
+    padding: 10px 0;
+    margin-bottom: 20px;
+    }
+    .logo{
+        width: 45px;
+        margin-left: 40px;
+    }
+
+    .header div{
+        display: flex;
+        
+    }
+   
+    .profile {
+        /* background-color: #a62626; */
+        display: flex;
+        align-items: center;
+        color: gray;
+        height: 50px;
+    }
+   
+    .profile p{
+        margin-right: 5px;
+        font-size: 0.9rem;
+    }
+  
+    
+    .logout{
+         display: flex;
+         justify-content: space-between;
+         width: 200px;
+          position: absolute;
+          flex-direction: column;
+          padding: 20px 10px;
+          top: 90px;
+          left: 10px;
+          background: #fefefe;
+          color: gray;
+          border-radius: 5px;
+          box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+          z-index: 10;
+          margin-right: 5px;
+        font-size: 0.9rem;
+        }
+        .logout p{
+            padding-bottom: 10px;
+        }
+       .logout img{
+           width: 20px;
+           color: gray!important;
+           padding-left: 5px;
+           padding-top: 0;
+       }
+
+       .logout span{
+           display: flex;
+           align-items: center;
+   
+       } 
+      .logout span p{
+          padding-top: 5px;
+      }  
+
+       .button{
+        background-color: #a62626;
+        color: #fff;
+        height: 40px;
+        width: 80px;
+        line-height: 40px;
+        text-align: center;
+        border-radius: 5px;
+        margin-right: 40px;
+
+           }
