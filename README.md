@@ -28,7 +28,7 @@ divar react-app یک وبسایت است که به کاربران این امک�
 
 1. این مخزن را کلون کنید:
    bash
-   git clone https://github.com/username/divar-react-app.git
+   git clone https://github.com/avajadidi/divar-react-app.git
    cd divar-react-app
    
 2. وابستگی‌ها را نصب کنید:
